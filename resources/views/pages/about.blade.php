@@ -1,4 +1,4 @@
-@extends('pages.layout')
+@extends('pages.beranda')
 
 @section('konten')
     <h1>Selamat Datang di Halaman About</h1>
