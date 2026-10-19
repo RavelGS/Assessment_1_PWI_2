@@ -12,6 +12,7 @@ Route::get('/about', function (): View {
         'nama' => 'Ravelio Genesaret Simanjuntak',
         'kelas' => 'D4SM-48-04',
         'nim' => '707082400056',
+        'jurusan' => 'Teknologi Rekayasa Multimedia'
     ]);
 })->name('about');
 
